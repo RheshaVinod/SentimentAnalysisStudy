@@ -1,4 +1,5 @@
-**Comparative Study of Word Embedding Representations for Sentiment Classification**
+# Comparative Study of Word Embedding Representations for Sentiment Classification
+
 This project compares different word embedding techniques and machine learning models for sentiment classification using Amazon product reviews.
 
 **We evaluate:**
